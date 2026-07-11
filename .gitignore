@@ -1,1 +1,12 @@
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# macOS Finder
+.AppleDouble
+.LSOverride
+
+# Log files
+*.log
